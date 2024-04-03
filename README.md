@@ -1,5 +1,5 @@
 
-### Data Analysis using Pandas🐼
+### Black Friday Analysis using Pandas🐼
 `Pandas` is an open source library for data analysis in Python. It is one of those packages that makes analysing data much easier. It helps to manage data and it used 2 data types for storing data:
 - series
 - dataframe.
